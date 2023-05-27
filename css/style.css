@@ -1,0 +1,14 @@
+.company{
+    font-size: 1.5rem;
+    font-weight: 300;
+
+}
+.top{
+    position: fixed;
+    bottom: 5px;
+    right:8px;
+}
+
+.html{
+    scroll-behavior:smooth ;
+}
